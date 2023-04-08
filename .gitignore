@@ -1,1 +1,3 @@
 fileExcluded.txt
+*.log
+log/
