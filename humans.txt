@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Marina Putzu mp@training.com	@awesomemp
 
 # THANKS
 
