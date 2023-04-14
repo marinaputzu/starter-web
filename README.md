@@ -20,3 +20,6 @@ This is a simple web project, deployment can be any web server or even local fil
 
 ## How to Contribute
 
+### Copyright
+
+2023 Git.Training.
